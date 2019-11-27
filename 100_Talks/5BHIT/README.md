@@ -8,4 +8,4 @@ Nr.| Thema                                                                      
  3 | [Closures, Enumerations, Properties](./3/Presentation_Closures.key)                              | Bordenschlager,Krammer
  4 | [Structures and Classes, Methods, Inheritance](./4/Structures_Classes_Methods_Inheritance.key)   | Kampmüller, Zandomeneghi
  5 | [Extensions, Protocols](./5/Presentation_Extensions_Protocols.key)                               | Schwayer, Sperl
- 6 | Initialization, Deinitialization, Generics                                                       | Arenstorff, Becirovic
+ 6 | [Initialization, Deinitialization, Generics](./6/Initialization_Deinitialization_Genrics.key)    | Arenstorff, Becirovic
